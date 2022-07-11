@@ -1,0 +1,10 @@
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\bin\Debug\game1.exe.config
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\bin\Debug\game1.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\bin\Debug\game1.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\obj\Debug\game1.csproj.AssemblyReference.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\obj\Debug\game1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\obj\Debug\game1.Properties.Resources.resources
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\obj\Debug\game1.csproj.GenerateResource.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\obj\Debug\game1.csproj.CoreCompileInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\obj\Debug\game1.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\.final\game1\game1\obj\Debug\game1.pdb
